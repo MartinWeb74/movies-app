@@ -1,7 +1,7 @@
 # Movies App
 ## Use the themoviedb.org to display and search movies
 
-## Home page displays feature movies for today
+## Home page displays featured movies for today
 
 ## Search allows to search for any keyword, movie name, actor, etc.
 
