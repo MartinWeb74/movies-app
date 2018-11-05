@@ -1,5 +1,5 @@
 # Movies App
-## Use the themoviedb.org to display and search movies
+## Use the themoviedb.org API to display and search movies
 
 ## Home page displays featured movies for today
 
